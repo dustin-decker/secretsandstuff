@@ -1,7 +1,5 @@
-blah blaj
-
-this is the secret: [Default]
-Access key Id: AKIAILE3JG6KMS3HZGCA
-Secret Access Key: 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
-
-okay thank you bye
+[default]
+aws_access_key_id = AKIAXYZDQCEN4B6JSJQI
+aws_secret_access_key = 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
+output = json
+region = us-east-2
